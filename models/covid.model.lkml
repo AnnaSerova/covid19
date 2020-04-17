@@ -7,6 +7,9 @@ include: "/covid_block/*.view.lkml"
 #map layers
 include: "map_layers.lkml"
 
+#dashboards
+include: "/dashboards/*.dashboard"
+
 
 ############ For the block ############
 
